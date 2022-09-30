@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+  	<Item>
+      <modelName>brickaderv</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            154 
+            14 
+            1
+            156 
+          </indices>
+          <liveries />
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0 
+            12 
+            0
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18 
+            12 
+            1
+            156 
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="18" />
+      <sirenSettings value="5631" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
